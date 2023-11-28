@@ -21,6 +21,7 @@ Moving documentation to a Confluence-style intranet site involves more than just
 
 * Implement a Tagging System: Use tags to enhance search functionality and make it easier for users to find relevant content
 * Use Descriptive Titles and Headings: Craft titles and headings that accurately reflect the content of the page for improved discoverability.
+* Link information/documents outside the current document referred to.
 
 ## Encourage Collaboration
 
